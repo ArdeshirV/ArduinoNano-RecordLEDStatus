@@ -1,5 +1,5 @@
 /* ArduinoNano-RecordLEDStatus.ino: Record LED Status, Version 1.0            */
-/* Copyright (c) 2016-2019 ardeshirv@protonmail.com, Licensed under GPLv3+    */
+/* Copyright (c) 2016-2019 ArdeshirV@protonmail.com, Licensed under GPLv3+    */
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 /* LCD Pin Map:
